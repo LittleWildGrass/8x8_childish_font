@@ -1,2 +1,10 @@
 # 8x8_childish_font
-Hello. I made an open-source 8x8 childish font and uploaded it to itch.io, Please feel free to use it for any purposes that are legal! :3 Best wishes, LittleWildGrass.  itch.io link: https://little-wild-grass.itch.io/little-wild-grass-childish-8x8-font
+Hello. This is a free and open-source 8x8 pixel font that I made in the style of a child writing. Please feel free to give it a try. You are free to use this font for any legal purpose.​ :3
+
+Donate to me if you like my work:
+
+Patreon: https://www.patreon.com/c/LittleWildGrass
+
+Follow me to see what other projects I am working on!
+
+https://www.reddit.com/user/LittleWildGrass/​
